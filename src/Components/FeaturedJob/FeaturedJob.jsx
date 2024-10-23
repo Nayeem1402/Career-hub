@@ -29,7 +29,7 @@ const FeaturedJob = () => {
             </div>
            <div className="flex justify-center my-3">
            <div className={dataLength === jobs.length && 'hidden'}>
-                <button onClick={() => setDataLength(jobs.length)} className='btn text-xl text-white bg-[#7E90FE] '>See All Jobs</button>
+                <button onClick={() => setDataLength(jobs.length)} className='linier '>See All Jobs</button>
             </div>
            </div>
         </>

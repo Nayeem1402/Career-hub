@@ -4,9 +4,16 @@
 
 .linier{
     background: linear-gradient(90.00deg, rgb(126, 144, 254),rgb(152, 115, 255) 100%);
+    color: white;
+    padding:9px 20px ;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 700;
 }
 .t-linier{
     background: -webkit-linear-gradient(#7E90FE, #9873FF);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
+ 

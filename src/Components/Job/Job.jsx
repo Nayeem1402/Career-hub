@@ -15,7 +15,7 @@
                 <img className='w-6 h-6' src="https://img.icons8.com/?size=100&id=QHui8fGzf5rs&format=png&color=000000" alt="" /><p>{salary}</p>
                 </div>
             </div>
-            <button className='btn text-xl text-white bg-[#7E90FE] mt-4'>View Details</button>
+            <button className='linier mt-4'>View Details</button>
         </div>
     );
 };
